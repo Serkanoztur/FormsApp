@@ -94,3 +94,4 @@ C:\Users\Oztur\FormsApp\obj\Debug\net9.0\refint\FormsApp.dll
 C:\Users\Oztur\FormsApp\obj\Debug\net9.0\FormsApp.pdb
 C:\Users\Oztur\FormsApp\obj\Debug\net9.0\FormsApp.genruntimeconfig.cache
 C:\Users\Oztur\FormsApp\obj\Debug\net9.0\ref\FormsApp.dll
+C:\Users\Oztur\FormsApp\obj\Debug\net9.0\FormsApp.sourcelink.json
